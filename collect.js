@@ -1,15 +1,15 @@
 
 const quizs = [
-    "file:///c%3A/Users/1633865/Desktop/final/final.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final2.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final3.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final4.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final5.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final6.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final7.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final8.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final9.html",
-    "file:///c%3A/Users/1633865/Desktop/final/final10.html"
+    "MotokiIshihara17.fnd45/final.html",
+    "MotokiIshihara17.fnd45/final2.html",
+    "MotokiIshihara17.fnd45/final3.html",
+    "MotokiIshihara17.fnd45/final4.html",
+    "MotokiIshihara17.fnd45/final5.html",
+    "MotokiIshihara17.fnd45/final6.html",
+    "MotokiIshihara17.fnd45/final7.html",
+    "MotokiIshihara17.fnd45/final8.html",
+    "MotokiIshihara17.fnd45/final9.html",
+    "MotokiIshihara17.fnd45/final10.html"
 ]
 
 
