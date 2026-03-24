@@ -1,15 +1,15 @@
 
 const quizs = [
-    "MotokiIshihara17.fnd45/final.html",
-    "MotokiIshihara17.fnd45/final2.html",
-    "MotokiIshihara17.fnd45/final3.html",
-    "MotokiIshihara17.fnd45/final4.html",
-    "MotokiIshihara17.fnd45/final5.html",
-    "MotokiIshihara17.fnd45/final6.html",
-    "MotokiIshihara17.fnd45/final7.html",
-    "MotokiIshihara17.fnd45/final8.html",
-    "MotokiIshihara17.fnd45/final9.html",
-    "MotokiIshihara17.fnd45/final10.html"
+    "final.html",
+    "final2.html",
+    "final3.html",
+    "final4.html",
+    "final5.html",
+    "final6.html",
+    "final7.html",
+    "final8.html",
+    "final9.html",
+    "final10.html"
 ]
 
 
