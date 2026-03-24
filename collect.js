@@ -23,6 +23,6 @@ next.addEventListener("click", function (){
 const count = window.history.length;
 console.log(count)
 
-if (count === 11) {
+if (count >= 11) {
         window.location.href = "finish.html"
 }
