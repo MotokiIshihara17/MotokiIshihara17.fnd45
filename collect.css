@@ -1,0 +1,80 @@
+
+body {
+    background-image: url(picture/answer.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
+
+/* #next {
+    position: absolute;
+    top: 68.3%;
+    left: 100%;
+    transform: translate(-50%,-50%);
+} */
+
+
+#failed { 
+    position: absolute;
+    top: 9%;
+    transform: translate(-50%,-50%);
+    object-fit: contain;
+    color: white;
+    font-size: 70px;
+    width: 30%;
+    height: 70px;
+    left: 60%;
+}
+#present { 
+    position: absolute;
+    top: 26%;
+    transform: translate(-50%,-50%);
+    object-fit: contain;
+    color: white;
+    font-size: 70px;
+    width: 30%;
+    height: 70px;
+    left: 54%;
+}
+/* 
+#next { 
+    position: absolute;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    object-fit: contain;
+    color: black;
+    font-size: 15px;
+    width: 30%;
+    height: 35%;
+    left: 85%;
+
+} */
+
+#next {
+    position: absolute;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    object-fit: contain;
+    color: black;
+    font-size: 30px;
+    width: 20%;
+    height: 20%;
+    left: 85%;
+}
+
+
+#hosoku  {
+    position: absolute;
+    top: 100%;
+    transform: translate(-50%,-50%);
+    object-fit: contain;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    height: 8%;
+    left: 50%;
+}
