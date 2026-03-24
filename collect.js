@@ -24,5 +24,5 @@ const count = window.history.length;
 console.log(count)
 
 if (count === 11) {
-        window.location.href = "file:///c%3A/Users/1633865/Desktop/final/finish.html"
+        window.location.href = "finish.html"
 }
